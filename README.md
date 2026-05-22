@@ -182,5 +182,5 @@ A: 运行 `python utils.py` 自动下载，或手动下载放到 `./data` 目录
 
 ## 训练数据集
 
-**MELD数据集**：https://affective-meld.github.io/  
-**预处理后的MELD数据集**：https://pan.baidu.com/s/1QQWzi4a_DXtka3Kri-zaLw?pwd=ucas
+MELD数据集：https://affective-meld.github.io/  
+预处理后的MELD数据集：https://pan.baidu.com/s/1QQWzi4a_DXtka3Kri-zaLw?pwd=ucas
